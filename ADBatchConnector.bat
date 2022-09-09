@@ -10,6 +10,12 @@ echo https://www.youtube.com/watch?v=26GI3z6tI3E
 echo.
 echo Using c to connect will just connect you to 198.168.43.1, so if you want to connect to a custom address, then press i.
 echo.
+echo Got it?
+pause
+cls
+echo ADBatchConnector
+echo.
+echo.
 echo C to connect 
 echo D to disconnect  
 echo i to connect to a custom IP Address
