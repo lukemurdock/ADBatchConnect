@@ -24,7 +24,7 @@ set address=NoAddressSet
 if %letter%==C (
 :connect
 cls 
-echo Are you sure you want to connect?
+echo Are you sure you want to connect? This will connect you to 192.168.43.1.
 pause
 cls
 echo Connecting... this might take some time, just be patient.
