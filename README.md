@@ -7,6 +7,8 @@ ADBatchConnect is a simple batch file that will connect your PC to an android de
 A Windows computer.
 You'll need to install ADB and set it up for this to work. You can look up how to do it on youtube.
 
+# Install
+It's a batch file, so you just click on ADBatchConnector.bat to download and then run it on your computer.
 
 
 
