@@ -1,14 +1,14 @@
 # ADBatchConnect
 Hey!
 # About
-ADBatchConnect is a simple batch file that will connect your PC to an android device via ADB (Android Debug Bridge).
+ADBatchConnect Is a simple tool made in batch that connects your Windows device to an Android device by using the Android Debug Bridge (ADB)
 
 # Requirements
 A Windows computer.
 You'll need to install ADB and set it up for this to work. You can look up how to do it on youtube.
 
 # Install
-It's a batch file, so you just click on ADBatchConnector.bat to download and then run it on your computer.
+It's just a lightweight batch file, so download it from the repository and your good to run! Just make sure you have ADB installed, or it won't work.
 
 
 
