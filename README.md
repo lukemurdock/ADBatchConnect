@@ -1,5 +1,8 @@
 ![image](https://user-images.githubusercontent.com/85533979/204660465-2ebbea90-00f4-4c47-a51c-1ed32a1027e8.png)
 credits to niivu, the creator of this MacOS theme for Windows.
+# ATTENTION
+This tool is outdated! The newest iteration is in my RevDB repository. Go check that out! It's more fleshed out!
+
 # ADBatchConnect
 Hey!
 # About
